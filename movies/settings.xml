@@ -5,7 +5,7 @@
          <id>internal-repository</id>
          <name>Maven Repository Manager for classroom</name>
         
-	<url>htpp://nexus-common.apps.na45.prod.nextcle.com</url>
+	<url>htpp://nexus-common.apps.na45.prod.nextcle.com/repository/java</url>
          <mirrorOf>*</mirrorOf>
          </mirror>
        </mirrors>
